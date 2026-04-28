@@ -1,0 +1,17 @@
+# Build artifacts
+*.tar.gz
+bin/
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Docker
+.dockerignore
